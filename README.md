@@ -26,9 +26,7 @@ Segment traders into meaningful groups
 
 Propose actionable trading strategies
 
-(Optional) Build a simple predictive model
-
- Dataset Description
+Dataset Description
  
  Bitcoin Market Sentiment Dataset
 
